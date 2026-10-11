@@ -144,6 +144,3 @@ in the sidebar for a faster start.
 
 ---
 
-## Author
-
-[Your Name] | [College / Department]
